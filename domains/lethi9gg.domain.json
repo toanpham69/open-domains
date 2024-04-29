@@ -1,1 +1,17 @@
+{
+    "description": "Just for Fun",
 
+    "domain": "is-not-a.dev",
+    "subdomain": "lethi9gg",
+
+    "owner": {
+        "repo": "https://github.com/toanpham69/open-domains",
+        "email": "lethi9gg@gmail.com"
+    },
+
+    "record": {
+        "CNAME": "lethi9gg.000webhostapp.com",
+    },
+
+    "proxied": false
+}
